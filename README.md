@@ -1,1 +1,0 @@
-# trezorio-startauth.github.io
